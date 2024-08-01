@@ -6,6 +6,8 @@ import Biography from './Components/Biography'
 import FooterMinu from './Components/FooterMinu'
 import Skills from './Components/Skills'
 
+
+
 function App() {
   return (
     <div className="bg-background">
